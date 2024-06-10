@@ -5,7 +5,7 @@ import {createBrowserRouter, RouterProvider} from 'react-router-dom';
 import About from "./views/About/About";
 import Contact from "./views/Contact/Contact";
 import Home from "./views/Home/Home";
-import "./component/Navbar/Navbar";
+
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 const path = window.location.pathname
